@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8b97ec1f9e58efc72b2af722e7fec44",
+    "revision": "dfa733d24a030a301b55341d53dea0d3",
     "url": "/belajar/index.html"
   },
   {
-    "revision": "84d151d6a6e207ce029f",
+    "revision": "f5ff2ef89eee9eac077e",
     "url": "/belajar/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/belajar/static/js/2.e87b54ed.chunk.js"
   },
   {
-    "revision": "84d151d6a6e207ce029f",
-    "url": "/belajar/static/js/main.72f92d1b.chunk.js"
+    "revision": "f5ff2ef89eee9eac077e",
+    "url": "/belajar/static/js/main.8e78812f.chunk.js"
   },
   {
     "revision": "237b67e4bd82f2a1eeac",
