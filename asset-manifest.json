@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/belajar/static/css/main.34de6062.chunk.css",
-    "main.js": "/belajar/static/js/main.8e78812f.chunk.js",
-    "main.js.map": "/belajar/static/js/main.8e78812f.chunk.js.map",
+    "main.css": "/belajar/static/css/main.498d002a.chunk.css",
+    "main.js": "/belajar/static/js/main.60c8d366.chunk.js",
+    "main.js.map": "/belajar/static/js/main.60c8d366.chunk.js.map",
     "runtime~main.js": "/belajar/static/js/runtime~main.ee1b6dec.js",
     "runtime~main.js.map": "/belajar/static/js/runtime~main.ee1b6dec.js.map",
-    "static/js/2.e87b54ed.chunk.js": "/belajar/static/js/2.e87b54ed.chunk.js",
-    "static/js/2.e87b54ed.chunk.js.map": "/belajar/static/js/2.e87b54ed.chunk.js.map",
+    "static/js/2.22ed9d80.chunk.js": "/belajar/static/js/2.22ed9d80.chunk.js",
+    "static/js/2.22ed9d80.chunk.js.map": "/belajar/static/js/2.22ed9d80.chunk.js.map",
     "index.html": "/belajar/index.html",
-    "precache-manifest.7545617fdc836c94d4c417075c42730e.js": "/belajar/precache-manifest.7545617fdc836c94d4c417075c42730e.js",
+    "precache-manifest.535667cfa5a4a27e4e8ed5d57d731746.js": "/belajar/precache-manifest.535667cfa5a4a27e4e8ed5d57d731746.js",
     "service-worker.js": "/belajar/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/belajar/static/css/main.34de6062.chunk.css.map"
+    "static/css/main.498d002a.chunk.css.map": "/belajar/static/css/main.498d002a.chunk.css.map"
   }
 }
