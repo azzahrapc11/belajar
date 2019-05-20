@@ -12,7 +12,6 @@ const profile = () => {
                             <span class="fa fa-code"></span>
                                 <h4 class="mt-4 mb-4">Consectetur</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius eum inventore consectetur. </p>
-                            
                             </div>
                         </div>
                         <div class="col-lg-4">
